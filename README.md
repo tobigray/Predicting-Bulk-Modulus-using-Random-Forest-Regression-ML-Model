@@ -1,4 +1,4 @@
-This is a machine learning model that trained to predict bulk modulus using Random Forest Regression.
+This is a machine learning model that is trained to predict bulk modulus using Random Forest Regression.
 
 The data was sourced from Matminer's database.
 
@@ -8,7 +8,7 @@ The generated features are now used to train the Random Forest model.
 
 The trained model was then cross validated for errors, and the Root Mean Square Error (RMSE) was evaluated.
 
-The model is visualized using Plotly to check the trends and identify outliers.
+The model is then visualized using Plotly to check the trends and identify outliers.
 
 To see the features that strongly influenced the model, Random Forest "feature importances" attribute was used.
 
