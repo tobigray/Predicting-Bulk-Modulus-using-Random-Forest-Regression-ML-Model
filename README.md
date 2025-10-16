@@ -1,4 +1,4 @@
-This is a machine learning model that is trained to predict bulk modulus using Random Forest Regression.
+This is a machine learning model trained to predict bulk modulus using Random Forest Regression.
 
 The data was sourced from Matminer's database.
 
